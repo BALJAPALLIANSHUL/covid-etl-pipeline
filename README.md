@@ -2,6 +2,19 @@
 
 This project contains a Python-based ETL (Extract, Transform, Load) pipeline that fetches daily COVID-19 data for the USA, processes it, and stores it in a local PostgreSQL database.
 
+## Table of Contents
+- [Project Overview](#project-overview)
+  - [Problem Statement](#problem-statement)
+  - [Solution](#solution)
+  - [Key Achievements](#key-achievements)
+  - [Dataset Used](#dataset-used)
+- [Features](#features)
+- [Local Setup](#local-setup)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running the ETL Pipeline](#running-the-etl-pipeline)
+- [Project Structure](#project-structure)
+
 ## Project Overview
 
 ### Problem Statement
