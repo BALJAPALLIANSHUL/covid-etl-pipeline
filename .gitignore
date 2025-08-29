@@ -1,13 +1,13 @@
-
-# Firebase Studio / IDX specific files
-.idx/
-
-# Python virtual environment
-venv/
-__pycache__/
-
-# Local environment variables
+# Environments
 .env
 
-# Postgres data directory
-pgdata/
+# Virtual-env
+venv/
+
+# Logs
+logfile
+*.log
+
+# Python
+__pycache__/
+*.pyc
