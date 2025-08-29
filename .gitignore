@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment variables
+# Do NOT commit this file!
+.env
+
+# IDE - VSCode
+.vscode/

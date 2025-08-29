@@ -1,0 +1,30 @@
+2025-08-29 20:45:15.165 UTC [567] LOG:  starting PostgreSQL 15.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit
+2025-08-29 20:45:15.166 UTC [567] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-08-29 20:45:15.170 UTC [567] FATAL:  could not create lock file "/run/postgresql/.s.PGSQL.5432.lock": No such file or directory
+2025-08-29 20:45:15.177 UTC [567] LOG:  database system is shut down
+2025-08-29 20:48:03.706 UTC [483] LOG:  starting PostgreSQL 15.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit
+2025-08-29 20:48:03.706 UTC [483] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-08-29 20:48:03.711 UTC [483] FATAL:  could not create lock file "/run/postgresql/.s.PGSQL.5432.lock": No such file or directory
+2025-08-29 20:48:03.718 UTC [483] LOG:  database system is shut down
+2025-08-29 20:50:13.686 UTC [479] LOG:  starting PostgreSQL 15.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit
+2025-08-29 20:50:13.688 UTC [479] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-08-29 20:50:13.694 UTC [479] FATAL:  could not create lock file "/run/postgresql/.s.PGSQL.5432.lock": No such file or directory
+2025-08-29 20:50:13.701 UTC [479] LOG:  database system is shut down
+2025-08-29 20:54:42.877 UTC [370] LOG:  starting PostgreSQL 15.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit
+2025-08-29 20:54:42.879 UTC [370] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-08-29 20:54:42.885 UTC [370] FATAL:  could not create lock file "/run/postgresql/.s.PGSQL.5432.lock": No such file or directory
+2025-08-29 20:54:42.892 UTC [370] LOG:  database system is shut down
+2025-08-29 20:55:52.973 UTC [874] LOG:  starting PostgreSQL 15.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit
+2025-08-29 20:55:52.974 UTC [874] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-08-29 20:55:52.977 UTC [874] FATAL:  could not create lock file "/run/postgresql/.s.PGSQL.5432.lock": No such file or directory
+2025-08-29 20:55:52.981 UTC [874] LOG:  database system is shut down
+2025-08-29 21:13:10.302 UTC [405] LOG:  starting PostgreSQL 15.10 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit
+2025-08-29 21:13:10.302 UTC [405] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-08-29 21:13:10.310 UTC [405] LOG:  listening on Unix socket "/home/user/etl-pipeline/pgdata/.s.PGSQL.5432"
+2025-08-29 21:13:10.356 UTC [410] LOG:  database system was shut down at 2025-08-29 20:45:14 UTC
+2025-08-29 21:13:10.464 UTC [405] LOG:  database system is ready to accept connections
+2025-08-29 21:13:10.583 UTC [415] FATAL:  database "user" does not exist
+2025-08-29 21:13:12.939 UTC [442] FATAL:  database "covid_data" does not exist
+2025-08-29 21:13:13.044 UTC [444] FATAL:  database "covid_data" does not exist
+2025-08-29 21:13:17.166 UTC [497] LOG:  invalid length of startup packet
+2025-08-29 21:13:17.178 UTC [498] LOG:  invalid length of startup packet
