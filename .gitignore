@@ -1,13 +1,13 @@
-# Python
-__pycache__/
-*.pyc
 
-# Virtual Environment
+# Firebase Studio / IDX specific files
+.idx/
+
+# Python virtual environment
 venv/
+__pycache__/
 
-# Environment variables
-# Do NOT commit this file!
+# Local environment variables
 .env
 
-# IDE - VSCode
-.vscode/
+# Postgres data directory
+pgdata/
